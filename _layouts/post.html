@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <a href="javascript:history.back()" class="back-button" aria-label="Go back">&#8592;</a>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <time class="post-meta" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %d, %Y" }}</time>
+  </header>
+  <div class="post-body">
+    {{ content }}
+  </div>
+</article>

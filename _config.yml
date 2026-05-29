@@ -1,0 +1,6 @@
+title: Sai Kapil Bharadwaj
+description: Personal site and technical blog
+url: https://statewideowl3.github.io
+baseurl: ""
+markdown: kramdown
+permalink: /blog/:title/
