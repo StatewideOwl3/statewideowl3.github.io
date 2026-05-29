@@ -5,7 +5,7 @@ title: Home
 
 Hi, I'm **Sai Kapil Bharadwaj**.
 
-I'm a CS undergrad and researcher who's fascinated by: computer architecture, how languages are designed, what happens at the hardware/software boundary, programming for performance.
+I'm a CS undergrad and researcher who's fascinated by: computer architecture, the hardware/software boundary and programming for performance.
 
 I am currently enrolled in my third year of study at [IIIT Hyderabad](https://www.iiit.ac.in/). I am part of the [Computer Systems Group](https://csg.iiit.ac.in/) @ IIITH under [Prof. Suresh Purini](https://www.iiit.ac.in/people/faculty/spurini/) working on ML Compilers and Hardware for AI.
 
