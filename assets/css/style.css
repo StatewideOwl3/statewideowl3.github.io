@@ -112,6 +112,18 @@ a:hover {
   color: var(--accent);
 }
 
+/* ========== PROFILE PHOTO ========== */
+
+.profile-photo {
+  float: right;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 0 1.5rem 1.5rem;
+  shape-outside: circle();
+}
+
 /* ========== CONTENT ========== */
 
 .content {

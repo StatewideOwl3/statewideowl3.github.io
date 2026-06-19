@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+<img src="/assets/images/photo.jpg" alt="Sai Kapil Bharadwaj" class="profile-photo">
+
 Hi, I'm **Sai Kapil Bharadwaj**.
 
 I'm a CS undergrad and researcher who's fascinated by: computer architecture, the hardware/software boundary and programming for performance.
